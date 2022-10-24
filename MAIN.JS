@@ -1,2 +1,2 @@
 // Add your JavaScript code here
-console.log('It is working properly!!');
+console.log('It is working as expected!!');
